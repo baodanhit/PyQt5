@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>200</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="labelSelected">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>107</y>
+     <width>211</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>61</x>
+     <y>104</y>
+     <width>62</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Your choice: </string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="formLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>61</x>
+     <y>61</y>
+     <width>281</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <layout class="QFormLayout" name="formLayout">
+    <item row="0" column="0">
+     <widget class="QLabel" name="label1">
+      <property name="text">
+       <string>Select your account type</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QComboBox" name="comboBoxType">
+      <item>
+       <property name="text">
+        <string/>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>A Account</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>B Account</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>C Account</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>D Account</string>
+       </property>
+      </item>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

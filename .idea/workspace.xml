@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3592ea7-bc81-4dd3-9cec-2bab707f5ef9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CareYourEyes/appresources.qrc" beforeDir="false" afterPath="$PROJECT_DIR$/CareYourEyes/appresources.qrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareYourEyes/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CareYourEyes/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CareYourEyes/ui_main.ui" beforeDir="false" afterPath="$PROJECT_DIR$/CareYourEyes/ui_main.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniCinema/interface.ui" beforeDir="false" afterPath="$PROJECT_DIR$/miniCinema/ui_main.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniCinema/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/miniCinema/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CareYourEyes" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Wanderson-Magalhaes/Python_PySide2_Custom_Title_Bar.git" />
+        <option value="https://github.com/Wanderson-Magalhaes/Toggle_Burguer_Menu_Python_PySide2.git" />
+        <option value="https://github.com/baodanhit/pyqt5-careyoureyes.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jqeGGol5gKYCxhZbIkMLb3zam2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Documents\ITC-learning\AdvancedProgramming\codes" />
+      <recent name="E:\Documents\ITC-learning\AdvancedProgramming\codes\RestForEyes" />
+      <recent name="Y:\ITC-learning\AdvancedProgramming\codes" />
+      <recent name="Y:\ITC-learning\AdvancedProgramming\codes\listWidget" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Documents\ITC-learning\AdvancedProgramming\codes\CareYourEyes" />
+      <recent name="Y:\ITC-learning\AdvancedProgramming\codes\listWidget\demo" />
+      <recent name="Y:\ITC-learning\AdvancedProgramming\codes\signal&amp;slot\calculator2" />
+      <recent name="Y:\ITC-learning\AdvancedProgramming\codes\checkbox\extraToppingForPizza" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/miniCinema" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miniCinema/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/candidateInfo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/candidateInfo/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CareYourEyes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CareYourEyes/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CareYourEyes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CareYourEyes/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3592ea7-bc81-4dd3-9cec-2bab707f5ef9" name="Default Changelist" comment="" />
+      <created>1604535951035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604535951035</updated>
+    </task>
+    <task id="LOCAL-00001" summary="14/11/2020">
+      <created>1605368424204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605368424204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="14/11/2020">
+      <created>1605451340184</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605451340184</updated>
+    </task>
+    <task id="LOCAL-00003" summary="14/11/2020">
+      <created>1605541762981</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605541762981</updated>
+    </task>
+    <task id="LOCAL-00004" summary="14/11/2020">
+      <created>1605585768326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605585768326</updated>
+    </task>
+    <task id="LOCAL-00005" summary="14/11/2020">
+      <created>1605632791831</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605632791831</updated>
+    </task>
+    <task id="LOCAL-00006" summary="21/11/2020">
+      <created>1605973083797</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605973083797</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="14/11/2020" />
+    <MESSAGE value="21/11/2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="21/11/2020" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="9" width="816" height="729" key="#Intentions" timestamp="1605496144474">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="9" width="816" height="729" key="#Intentions/0.0.1366.738@0.0.1366.738" timestamp="1605496144474" />
+    <state x="275" y="28" key="#Notifications" timestamp="1605451270211">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="28" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1605451270211" />
+    <state x="290" y="0" key="CommitChangelistDialog2" timestamp="1605973079890">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="290" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1605973079890" />
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1605496167090">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1605496167090" />
+    <state x="463" y="112" key="FileChooserDialogImpl" timestamp="1605141018270">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="112" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1605141018270" />
+    <state width="1345" height="546" key="GridCell.Tab.0.bottom" timestamp="1606190250381">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="546" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606190250381" />
+    <state width="1345" height="30" key="GridCell.Tab.0.bottom/0.0.1366.744@0.0.1366.744" timestamp="1604843760929" />
+    <state width="1345" height="546" key="GridCell.Tab.0.center" timestamp="1606190250381">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="546" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1606190250381" />
+    <state width="1345" height="30" key="GridCell.Tab.0.center/0.0.1366.744@0.0.1366.744" timestamp="1604843760929" />
+    <state width="1345" height="546" key="GridCell.Tab.0.left" timestamp="1606190250381">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="546" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1606190250381" />
+    <state width="1345" height="30" key="GridCell.Tab.0.left/0.0.1366.744@0.0.1366.744" timestamp="1604843760929" />
+    <state width="1345" height="546" key="GridCell.Tab.0.right" timestamp="1606190250381">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="546" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606190250381" />
+    <state width="1345" height="30" key="GridCell.Tab.0.right/0.0.1366.744@0.0.1366.744" timestamp="1604843760929" />
+    <state width="1345" height="546" key="GridCell.Tab.1.bottom" timestamp="1606190250381">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="546" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606190250381" />
+    <state width="1345" height="30" key="GridCell.Tab.1.bottom/0.0.1366.744@0.0.1366.744" timestamp="1604843760929" />
+    <state width="1345" height="546" key="GridCell.Tab.1.center" timestamp="1606190250381">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="546" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1606190250381" />
+    <state width="1345" height="30" key="GridCell.Tab.1.center/0.0.1366.744@0.0.1366.744" timestamp="1604843760929" />
+    <state width="1345" height="546" key="GridCell.Tab.1.left" timestamp="1606190250381">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="546" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1606190250381" />
+    <state width="1345" height="30" key="GridCell.Tab.1.left/0.0.1366.744@0.0.1366.744" timestamp="1604843760929" />
+    <state width="1345" height="546" key="GridCell.Tab.1.right" timestamp="1606190250381">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="546" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1606190250381" />
+    <state width="1345" height="30" key="GridCell.Tab.1.right/0.0.1366.744@0.0.1366.744" timestamp="1604843760929" />
+    <state x="184" y="15" key="SettingsEditor" timestamp="1605746439229">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="15" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1605746439229" />
+    <state x="184" y="15" key="SettingsEditor/0.0.1366.744@0.0.1366.744" timestamp="1604577584907" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1604836382969">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.744@0.0.1366.744" timestamp="1604836382969" />
+    <state x="490" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605973095493">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="490" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1605973095493" />
+    <state x="346" y="64" width="672" height="678" key="search.everywhere.popup" timestamp="1605454303504">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="64" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1605454303504" />
+    <state x="346" y="65" key="search.everywhere.popup/0.0.1366.744@0.0.1366.744" timestamp="1604536797015" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="window.incomplete" language="Python" />
+        <watch expression="window.incomplete" language="Python" />
+        <watch expression="self" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

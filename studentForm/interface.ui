@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>475</width>
+    <height>345</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="1" column="0">
+    <spacer name="horizontalSpacer">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>40</width>
+       <height>20</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item row="1" column="1">
+    <widget class="QPushButton" name="btnOK">
+     <property name="text">
+      <string>OK</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="2">
+    <spacer name="horizontalSpacer_2">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>40</width>
+       <height>20</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item row="0" column="0" colspan="3">
+    <layout class="QFormLayout" name="formLayout">
+     <property name="sizeConstraint">
+      <enum>QLayout::SetDefaultConstraint</enum>
+     </property>
+     <property name="fieldGrowthPolicy">
+      <enum>QFormLayout::AllNonFixedFieldsGrow</enum>
+     </property>
+     <property name="formAlignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="horizontalSpacing">
+      <number>20</number>
+     </property>
+     <property name="verticalSpacing">
+      <number>30</number>
+     </property>
+     <property name="leftMargin">
+      <number>20</number>
+     </property>
+     <property name="topMargin">
+      <number>20</number>
+     </property>
+     <property name="rightMargin">
+      <number>20</number>
+     </property>
+     <property name="bottomMargin">
+      <number>20</number>
+     </property>
+     <item row="0" column="0">
+      <widget class="QLabel" name="studentNameLabel">
+       <property name="text">
+        <string>Student Name</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLineEdit" name="studentNameLineEdit"/>
+     </item>
+     <item row="1" column="0">
+      <widget class="QLabel" name="codeLabel">
+       <property name="text">
+        <string>Code</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QLineEdit" name="studentCodeLineEdit"/>
+     </item>
+     <item row="2" column="0">
+      <widget class="QLabel" name="historyMarkLabel">
+       <property name="text">
+        <string>History mark</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QLineEdit" name="historyMarkLineEdit"/>
+     </item>
+     <item row="3" column="0">
+      <widget class="QLabel" name="geographyMarkLabel">
+       <property name="text">
+        <string>Geography mark</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="1">
+      <widget class="QLineEdit" name="geographyMarkLineEdit"/>
+     </item>
+     <item row="4" column="0" colspan="2">
+      <widget class="QLabel" name="studentInfoLabel">
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>499</width>
+    <height>373</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QGroupBox" name="groupBoxType">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>30</y>
+     <width>120</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Chọn loại thịt:</string>
+   </property>
+   <widget class="QWidget" name="verticalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>20</y>
+      <width>121</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QRadioButton" name="radioButtonCow">
+       <property name="text">
+        <string>🐮  Bò</string>
+       </property>
+       <property name="checked">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QRadioButton" name="radioButtonChicken">
+       <property name="text">
+        <string>🐔  Gà</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QRadioButton" name="radioButtonFish">
+       <property name="text">
+        <string>🐟  Cá</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QPushButton" name="btnAdd">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>100</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnRemove">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>160</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;</string>
+   </property>
+  </widget>
+  <widget class="QListWidget" name="listWidgetSelected">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>50</y>
+     <width>161</width>
+     <height>201</height>
+    </rect>
+   </property>
+   <property name="selectionMode">
+    <enum>QAbstractItemView::MultiSelection</enum>
+   </property>
+   <property name="sortingEnabled">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>30</y>
+     <width>161</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Các món đã chọn</string>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBoxProcess">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>160</y>
+     <width>120</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>Các món có thể chọn:</string>
+   </property>
+   <widget class="QWidget" name="verticalLayoutWidget_2">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>20</y>
+      <width>121</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout_2">
+     <item>
+      <widget class="QCheckBox" name="checkBoxGrilled">
+       <property name="text">
+        <string>Nướng</string>
+       </property>
+       <property name="checked">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="checkBoxBoiled">
+       <property name="text">
+        <string>Luộc</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="checkBoxDried">
+       <property name="text">
+        <string>Chiên</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QLabel" name="labelTotal">
+   <property name="geometry">
+    <rect>
+     <x>350</x>
+     <y>260</y>
+     <width>81</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Tổng cộng: 0</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

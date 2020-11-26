@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>517</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dental Payment</string>
+  </property>
+  <widget class="QWidget" name="gridLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>20</y>
+     <width>341</width>
+     <height>471</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="QLabel" name="labelTitle">
+      <property name="font">
+       <font>
+        <pointsize>13</pointsize>
+        <weight>75</weight>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>NHA KHOA NỤ CƯỜI</string>
+      </property>
+      <property name="alignment">
+       <set>Qt::AlignCenter</set>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QGroupBox" name="groupBoxCustomerInfo">
+      <property name="title">
+       <string>Thông tin khách hàng</string>
+      </property>
+      <widget class="QLabel" name="labelSex">
+       <property name="geometry">
+        <rect>
+         <x>51</x>
+         <y>67</y>
+         <width>38</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Giới tính</string>
+       </property>
+      </widget>
+      <widget class="QComboBox" name="comboBoxSex">
+       <property name="geometry">
+        <rect>
+         <x>104</x>
+         <y>67</y>
+         <width>69</width>
+         <height>20</height>
+        </rect>
+       </property>
+       <item>
+        <property name="text">
+         <string>Nam</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Nữ</string>
+        </property>
+       </item>
+      </widget>
+      <widget class="QLineEdit" name="lineEditName">
+       <property name="geometry">
+        <rect>
+         <x>104</x>
+         <y>41</y>
+         <width>181</width>
+         <height>20</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QLabel" name="labelName">
+       <property name="geometry">
+        <rect>
+         <x>51</x>
+         <y>41</y>
+         <width>47</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Họ và tên</string>
+       </property>
+      </widget>
+     </widget>
+    </item>
+    <item row="3" column="0">
+     <layout class="QHBoxLayout">
+      <item>
+       <spacer name="horizontalSpacer">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeType">
+         <enum>QSizePolicy::Fixed</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_2">
+        <property name="text">
+         <string>Thành tiền</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="lineEditTotal"/>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_3">
+        <property name="text">
+         <string>VNĐ</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <spacer name="horizontalSpacer_2">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeType">
+         <enum>QSizePolicy::Fixed</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+     </layout>
+    </item>
+    <item row="2" column="0">
+     <widget class="QGroupBox" name="groupBoxService">
+      <property name="title">
+       <string>Dịch vụ</string>
+      </property>
+      <widget class="QWidget" name="gridLayoutWidget_2">
+       <property name="geometry">
+        <rect>
+         <x>49</x>
+         <y>29</y>
+         <width>241</width>
+         <height>19</height>
+        </rect>
+       </property>
+       <layout class="QHBoxLayout" name="horizontalLayout">
+        <item>
+         <widget class="QCheckBox" name="checkBoxTayTrang">
+          <property name="text">
+           <string>Tẩy Trắng</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QCheckBox" name="checkBoxNienRang">
+          <property name="text">
+           <string>Niền răng</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QSpinBox" name="spinBoxTrongRang">
+       <property name="geometry">
+        <rect>
+         <x>175</x>
+         <y>87</y>
+         <width>37</width>
+         <height>20</height>
+        </rect>
+       </property>
+       <property name="maximum">
+        <number>45</number>
+       </property>
+      </widget>
+      <widget class="QLabel" name="labelTrongRangl">
+       <property name="geometry">
+        <rect>
+         <x>51</x>
+         <y>87</y>
+         <width>53</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Trồng răng</string>
+       </property>
+      </widget>
+      <widget class="QSpinBox" name="spinBoxNhoRang">
+       <property name="geometry">
+        <rect>
+         <x>175</x>
+         <y>61</y>
+         <width>37</width>
+         <height>20</height>
+        </rect>
+       </property>
+       <property name="maximum">
+        <number>45</number>
+       </property>
+      </widget>
+      <widget class="QLabel" name="labelNhoRang">
+       <property name="geometry">
+        <rect>
+         <x>51</x>
+         <y>61</y>
+         <width>44</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Nhổ răng</string>
+       </property>
+      </widget>
+     </widget>
+    </item>
+    <item row="4" column="0">
+     <widget class="QPushButton" name="btnCheckout">
+      <property name="text">
+       <string>Thanh toán</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
